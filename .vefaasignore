@@ -1,0 +1,4 @@
+# veFaaS ignore file
+# Syntax is the same as .gitignore
+.git
+.venv
